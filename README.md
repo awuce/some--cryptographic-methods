@@ -1,2 +1,2 @@
-# some--cryptographic-methods
-Сryptographic methods
+# Some Cryptographic Methods
+Сryptographic methods:
